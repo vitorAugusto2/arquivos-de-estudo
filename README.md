@@ -31,5 +31,5 @@ Este repositório oferece um conjunto básico de conhecimentos em Data Science u
 
 <sub>
     <strong>Autor:</strong> Vitor Augusto Lemes Pinheiro dos Santos
-    <strong>Data de Criação:</strong> 10 de abril de 2024
+    <strong>Data de Criação:</strong> 9 de abril de 2024
 </sub>
