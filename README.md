@@ -27,5 +27,5 @@ Este repositório oferece um conjunto básico de conhecimentos em Data Science u
       <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/77500055-b478-4c63-bf21-ce718aa12a41" alt="Capa do Livro" width="200">
     </p>
 
----
+
 <sub>Criado por Vitor Augusto Lemes Pinheiro dos Santos</sub>
