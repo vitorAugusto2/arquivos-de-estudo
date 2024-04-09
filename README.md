@@ -11,17 +11,15 @@ Este repositório oferece um conjunto básico de conhecimentos em Data Science u
     - **Edição:** 2ª edição
     - **Editora:** Alta Books
     - **Ano:** 2021
-      
-    <div style="text-align:center">
-      <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/ee567fe5-e068-4c9d-99ba-e69a86e624dd" alt="Capa do Livro" width="300">
-    </div>
+    <p align="center">
+      <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/ee567fe5-e068-4c9d-99ba-e69a86e624dd" alt="Capa do Livro" width="200">
+    </p>
 
 
   - **"Introdução à programação com Python - Algoritmos e lógica de programação para iniciantes"** por Nilo Ney Coutinho Menezes
     - **Edição:** 3ª edição
     - **Editora:** Novatec
     - **Ano:** 2019
-      
-    <div style="text-align:center">
-      <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/77500055-b478-4c63-bf21-ce718aa12a41" alt="Capa do Livro" width="300">
-    </div>
+    <p align="center">
+      <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/77500055-b478-4c63-bf21-ce718aa12a41" alt="Capa do Livro" width="200">
+    </p>
