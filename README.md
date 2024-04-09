@@ -29,4 +29,4 @@ Este repositório oferece um conjunto básico de conhecimentos em Data Science u
 
 ---
 
-Criado por Vitor Augusto Lemes Pinheiro dos Santos
+<sub>Criado por Vitor Augusto Lemes Pinheiro dos Santos</sub>
