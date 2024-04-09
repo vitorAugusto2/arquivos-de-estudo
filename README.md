@@ -3,10 +3,13 @@
 Este repositório oferece um conjunto básico de conhecimentos em Data Science usando Python, destacando as bibliotecas NumPy, Pandas e Matplotlib. Inclui exemplos práticos e exercícios para explorar a manipulação, análise e visualização de dados.
 
 ## Referências
-- **Site**: [Codeacademy](https://www.codeacademy.com)
-  
+- **Site**:
+    - Learn Data Analysis with Pandas [*Codecademy*](https://www.codecademy.com/enrolled/courses/data-processing-pandas)
+    - Learn Statistics with NumPy [*Codecademy*](https://www.codecademy.com/enrolled/courses/intro-statistics-numpy)
+    - Visualize Data with Python [*Codecademy*](https://www.codecademy.com/enrolled/paths/visualize-data-with-python)
+    - Data Science Foundations [*Codecademy*](https://www.codecademy.com/enrolled/paths/data-science-foundations)
+    
 - **Livros**:
-  
   - **"Data Science do Zero - Noções fundamentais com Python"** por Joel Grus
     - **Edição:** 2ª edição
     - **Editora:** Alta Books
