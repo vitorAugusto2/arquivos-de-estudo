@@ -5,7 +5,7 @@ Este repositório oferece um conjunto básico de conhecimentos em Data Science u
 ## Referências
 - **Site**:
     - [*Data Science Foundations*](https://www.codecademy.com/enrolled/paths/data-science-foundations)
-    - [*Learn Statistics with NumPy*](https://www.codecademy.com/enrolled/courses/intro-statistics-numpy)- 
+    - [*Learn Statistics with NumPy*](https://www.codecademy.com/enrolled/courses/intro-statistics-numpy)
     - [*Learn Data Analysis with Pandas*](https://www.codecademy.com/enrolled/courses/data-processing-pandas)
     - [*Visualize Data with Python*](https://www.codecademy.com/enrolled/paths/visualize-data-with-python)
     
