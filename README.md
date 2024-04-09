@@ -1,2 +1,3 @@
 # Data Science com Python
-Este repositório é um guia essencial para quem busca conhecimentos fundamentais em Data Science utilizando Python, com foco nas bibliotecas NumPy, Pandas e Matplotlib. Aqui, você encontrará exemplos práticos e exercícios que abordam desde a manipulação de dados até a criação de visualizações
+
+Este repositório oferece um conjunto básico de conhecimentos em Data Science usando Python, destacando as bibliotecas NumPy, Pandas e Matplotlib. Inclui exemplos práticos e exercícios para explorar a manipulação, análise e visualização de dados.
