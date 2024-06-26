@@ -1,6 +1,9 @@
 # 📘 Data Science
 
-Este repositório fornece uma base sólida em Data Science utilizando Python e SQL, com ênfase no PostgreSQL. Destaca-se o uso das bibliotecas NumPy, Pandas, Matplotlib e Seaborn para manipulação, análise e visualização de dados. Adicionalmente, inclui conhecimentos em criação de dashboards e relatórios interativos com Power BI. Os projetos aqui apresentados visam explorar técnicas de análise de dados, bem como fornecer exemplos práticos para o desenvolvimento de scripts eficientes em Python.
+Este repositório fornece uma base sólida em Data Science utilizando Python e SQL, especificamente PostgreSQL. Destaca-se o uso das bibliotecas NumPy, Pandas, Matplotlib e Seaborn para manipulação, análise e visualização de dados. Alem disso, criação de dashboards e relatórios interativos com Power BI. Os projetos aqui apresentados visam explorar técnicas de análise de dados, bem como fornecer exemplos práticos para o desenvolvimento de scripts eficientes em Python.
+
+## Projetos
+em desenvolvimento...
 
 ## Referências
 - **Site**:
