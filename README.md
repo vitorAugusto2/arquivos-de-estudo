@@ -7,6 +7,13 @@ em densevolvimento...
 | Nome do Projeto | Descrição | Tecnologias Utilizadas | Link |
 |-----------------|-----------|------------------------|------|
 | Projeto 1       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 2       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 3       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 4       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 1       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 1       | Descrição do Projeto 1.            | Python, SQL      | [GitHub](https://github.com/usuario/projeto1) |
+| tcc-a2d2-autodistill-yolo | Descrição do Projeto 1.            | Python, SQL      | [GitHub]([https://github.com/usuario/projeto1](https://github.com/vitorAugusto2/tcc-a2d2-autodistill-yolo)) |
+
 
 
 ## Referências
