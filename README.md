@@ -1,6 +1,18 @@
-# 📘 Data Science
+# 📘 Ciência de dados
 
 Este repositório oferece um conjunto básico de conhecimentos em Data Science usando Python, destacando as bibliotecas NumPy, Pandas, Matplotlib e Seaborn. Inclui projetos para explorar a manipulação, análise e visualização de dados e exemplos práticos para desenvolvimento de scripts em Python.
+
+## Projetos
+
+| Nome do Projeto | Descrição | Tecnologias Utilizadas | Link |
+|-----------------|-----------|------------------------|------|
+| Projeto 1       | Descrição do Projeto 1.            | Python, Django       | [GitHub](https://github.com/usuario/projeto1) |
+| Projeto 2       | Descrição do Projeto 2.            | JavaScript, React    | [GitHub](https://github.com/usuario/projeto2) |
+| Projeto 3       | Descrição do Projeto 3.            | Java, Spring Boot    | [GitHub](https://github.com/usuario/projeto3) |
+| Projeto 4       | Descrição do Projeto 4.            | C#, .NET             | [GitHub](https://github.com/usuario/projeto4) |
+| Projeto 5       | Descrição do Projeto 5.            | PHP, Laravel         | [GitHub](https://github.com/usuario/projeto5) |
+
+
 
 ## Referências
 - **Site**:
