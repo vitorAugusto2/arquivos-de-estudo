@@ -1,6 +1,6 @@
 # 📘 Data Science
 
-Este repositório oferece um conjunto básico de conhecimentos em Data Science usando Python, destacando as bibliotecas NumPy, Pandas, Matplotlib e Seaborn. Inclui projetos e exemplos práticos para explorar a manipulação, análise e visualização de dados.
+Este repositório oferece um conjunto básico de conhecimentos em Data Science usando Python, destacando as bibliotecas NumPy, Pandas, Matplotlib e Seaborn. Inclui projetos para explorar a manipulação, análise e visualização de dados e exemplos práticos para desenvolvimento de scripts em Python.
 
 ## Referências
 - **Site**:
