@@ -3,7 +3,13 @@
 Este repositório fornece uma base sólida em Data Science utilizando Python e SQL, especificamente PostgreSQL. Destaca-se o uso das bibliotecas NumPy, Pandas, Matplotlib e Seaborn para manipulação, análise e visualização de dados. Alem disso, criação de dashboards e relatórios interativos com Power BI. Os projetos aqui apresentados visam explorar técnicas de análise de dados, bem como fornecer exemplos práticos para o desenvolvimento de scripts eficientes em Python.
 
 ## Projetos
-em desenvolvimento...
+| Nome do projeto | Ferramentas  |
+|-----------------|--------------|
+| [bd-itens-historico](https://github.com/vitorAugusto2/bd-itens-historicos) | Modelagem e SQL |
+| [eda-probabilisticas-iris](https://github.com/vitorAugusto2/eda-probabilisticas-iris) | Python, Pandas, SciPy e Matplolib |
+| [us-medical-insurance-cost](https://github.com/vitorAugusto2/us-medical-insurance-costs) | Python, Numpy, Pandas e Matplolib |
+| [life-expectancy-gdp](https://github.com/vitorAugusto2/life-expectancy-gdp) | Python, Numpy, Pandas e Matplolib |
+| [biodiversity-rational-parks](https://github.com/vitorAugusto2/biodiversity-rational-parks) | Python, Numpy, Pandas e Matplolib |
 
 ## Referências
 - **Site**:
