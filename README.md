@@ -6,10 +6,10 @@ Este repositório fornece uma base sólida em Data Science utilizando Python e S
 | Nome do projeto | Ferramentas  |
 |-----------------|--------------|
 | [itens-historico](https://github.com/vitorAugusto2/bd-itens-historicos) | Modelagem e SQL |
-| [eda-iris](https://github.com/vitorAugusto2/eda-probabilisticas-iris) | Python, Pandas, SciPy e Matplolib |
-| [custo-seguro-medico-eua](https://github.com/vitorAugusto2/us-medical-insurance-costs) | Python, Numpy, Pandas e Matplolib |
-| [expectativa-vida-pib ](https://github.com/vitorAugusto2/expectativa-de-vida-e-pib) | Python, Numpy, Pandas, Matplolib e Seaborn |
-| [parque-nacional-biodiversidade ](https://github.com/vitorAugusto2/biodiversity-rational-parks) | Python, Numpy, Pandas e Matplolib |
+| [eda-iris](https://github.com/vitorAugusto2/eda-probabilisticas-iris) | Python, Numpy, Pandas, SciPy e Matplolib |
+| [custo-seguro-medico-eua](https://github.com/vitorAugusto2/us-medical-insurance-costs) | Python, Pandas, Matplolib e Seaborn |
+| [expectativa-vida-pib ](https://github.com/vitorAugusto2/expectativa-de-vida-e-pib) | Python, Pandas, Matplolib e Seaborn  |
+| [parque-nacional-biodiversidade ](https://github.com/vitorAugusto2/biodiversity-rational-parks) | Python, Pandas, Matplolib e Seaborn |
 
 ## Referências
 - **Site**:
