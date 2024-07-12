@@ -17,7 +17,7 @@ Este repositório fornece uma base sólida em Data Science utilizando Python e S
     - [*Learn Statistics with NumPy*](https://www.codecademy.com/enrolled/courses/intro-statistics-numpy)
     - [*Learn Data Analysis with Pandas*](https://www.codecademy.com/enrolled/courses/data-processing-pandas)
     - [*Visualize Data with Python*](https://www.codecademy.com/enrolled/paths/visualize-data-with-python)
-    -   
+       
 - **Livros**:
   - **"Data Science do Zero - Noções fundamentais com Python"** por Joel Grus
     - **Edição:** 2ª edição
