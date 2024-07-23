@@ -1,6 +1,6 @@
-# 📘 Data Science
+# 📘**Data Science**
 
-Este repositório fornece uma base sólida em Data Science utilizando Python e SQL, especificamente PostgreSQL. Destaca-se o uso das bibliotecas NumPy, Pandas, Matplotlib e Seaborn para manipulação, análise e visualização de dados. Alem disso, criação de dashboards e relatórios interativos com Power BI. Os projetos aqui apresentados visam explorar técnicas de análise de dados, bem como fornecer exemplos práticos para o desenvolvimento de scripts eficientes em Python.
+Este repositório oferece uma base sólida em *Data Science*, abrangendo Python, SQL, Excel e Power BI. Inclui bibliotecas essenciais como NumPy, Pandas, Matplotlib, Seaborn, SciPy e Statsmodels para processamento numérico, manipulação e visualização de dados. Além disso, criação de dashboards e relatórios interativos com Power BI. Os projetos apresentados visam explorar técnicas de análise de dados e fornecer exemplos práticos para o desenvolvimento de scripts eficientes em Python.
 
 ## Projetos
 | Nome do projeto | Ferramentas  |
@@ -11,7 +11,7 @@ Este repositório fornece uma base sólida em Data Science utilizando Python e S
 | [expectativa-vida-pib ](https://github.com/vitorAugusto2/expectativa-de-vida-e-pib) | Python, Pandas, Matplolib e Seaborn  |
 | [parque-nacional-biodiversidade ](https://github.com/vitorAugusto2/biodiversity-rational-parks) | Python, Pandas, SciPy, Matplolib e Seaborn |
 
-## Referências
+## **Referências**
 - **Site**:
     - [*Data Science Foundations*](https://www.codecademy.com/enrolled/paths/data-science-foundations)
     - [*Learn Statistics with NumPy*](https://www.codecademy.com/enrolled/courses/intro-statistics-numpy)
@@ -19,6 +19,14 @@ Este repositório fornece uma base sólida em Data Science utilizando Python e S
     - [*Visualize Data with Python*](https://www.codecademy.com/enrolled/paths/visualize-data-with-python)
        
 - **Livros**:
+  - **"Python para Análise de Dados - Tratamento de dados com pandas, NumPy e Jupyter"** por Wes Mckinney
+    - **Edição:** 3ª edição
+    - **Editora:** Novatec
+    - **Ano:** 2023
+    <p align="left">
+      <img src="https://github.com/user-attachments/assets/08c2260d-0f15-4617-81b5-e97ffbef8ba3" alt="Capa do Livro" width="200">
+    </p>
+    
   - **"Data Science do Zero - Noções fundamentais com Python"** por Joel Grus
     - **Edição:** 2ª edição
     - **Editora:** Alta Books
@@ -35,7 +43,7 @@ Este repositório fornece uma base sólida em Data Science utilizando Python e S
       <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/77500055-b478-4c63-bf21-ce718aa12a41" alt="Capa do Livro" width="200">
     </p>
 
-#
+
 
 <sub>
     <strong>Autor:</strong> Vitor Augusto Lemes Pinheiro dos Santos
