@@ -43,7 +43,7 @@ Este repositório oferece uma base sólida em *Data Science*, abrangendo Python,
       <img src="https://github.com/vitorAugusto2/arquivos-de-estudo/assets/131685750/77500055-b478-4c63-bf21-ce718aa12a41" alt="Capa do Livro" width="200">
     </p>
 
-
+#
 
 <sub>
     <strong>Autor:</strong> Vitor Augusto Lemes Pinheiro dos Santos
