@@ -9,6 +9,8 @@ Refere-se ao número de operações ou tempo que o algoritmo leva para ser execu
 ## Complexidade de Espaço
 Mede a quantidade de **memória extra** necessária para a execução de um algoritmo em relação ao tamanho da entrada. Algoritmos que utilizam menos memória são preferíveis.
 
+- Exemplo: Um algoritmo que cria uma cópia de um array. Neste caso, a quantidade de memória necessária aumenta proporcionalmente ao tamanho da entrada, ou seja, **O(n)**.
+
 ## Questões Importantes
 1. O código pode **ficar mais lento** à medida que a quantidade de dados aumenta.
 2. A análise de Big O é **independente do hardware**: ela considera apenas o número de operações, não o tempo exato em segundos.
@@ -39,7 +41,10 @@ O tempo de execução aumenta rapidamente conforme o tamanho da entrada aumenta.
 
 ### O(n!) – Tempo Fatorial
 O tempo de execução cresce de maneira explosiva à medida que o tamanho da entrada aumenta. Usado apenas para pequenos problemas.
-- Exemplo: Problema do caixeiro viajante (brute force).
+- Exemplo: Problema do caixeiro viajante (_brute force_).
 
-## Conceito Final
+## Gráfico Big O
+
+
+## Conclusão
 Big O Notation nos ajuda a **comparar e escolher algoritmos** com base em como eles escalam. Um bom algoritmo é aquele que pode lidar eficientemente com grandes quantidades de dados tanto em termos de tempo quanto de memória.
