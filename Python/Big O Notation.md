@@ -13,7 +13,7 @@ Mede a quantidade de **memória extra** necessária para a execução de um algo
 
 ## Questões Importantes
 1. O código pode **ficar mais lento** à medida que a quantidade de dados aumenta.
-2. A análise de Big O é **independente do hardware**: ela considera apenas o número de operações, não o tempo exato em segundos.
+2. A análise de Big O é ***independente do hardware**: ela considera apenas o número de operações, não o tempo exato em segundos.
 3. Big O **ignora constantes e operações menores**. Por exemplo, **O(n + 1)** é simplificado para **O(n)**, porque o termo dominante é mais importante à medida que n cresce.
 
 ## Gráfico Big O
