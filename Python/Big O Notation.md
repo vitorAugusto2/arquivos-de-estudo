@@ -16,7 +16,9 @@ Mede a quantidade de **memória extra** necessária para a execução de um algo
 2. A análise de Big O é **independente do hardware**: ela considera apenas o número de operações, não o tempo exato em segundos.
 3. Big O **ignora constantes e operações menores**. Por exemplo, **O(n + 1)** é simplificado para **O(n)**, porque o termo dominante é mais importante à medida que n cresce.
 
-## Tabelas de Complexidades Comuns
+## Gráfico Big O
+![image](https://github.com/user-attachments/assets/d22eeea9-9c92-425c-9eb5-406c132d9dce)
+
 As seguintes anotações representam os diferentes tipos de crescimento de complexidade:
 
 ### O(1) – Tempo Constante
@@ -42,9 +44,6 @@ O tempo de execução aumenta rapidamente conforme o tamanho da entrada aumenta.
 ### O(n!) – Tempo Fatorial
 O tempo de execução cresce de maneira explosiva à medida que o tamanho da entrada aumenta. Usado apenas para pequenos problemas.
 - Exemplo: Problema do caixeiro viajante (_brute force_).
-
-## Gráfico Big O
-
 
 ## Conclusão
 Big O Notation nos ajuda a **comparar e escolher algoritmos** com base em como eles escalam. Um bom algoritmo é aquele que pode lidar eficientemente com grandes quantidades de dados tanto em termos de tempo quanto de memória.
